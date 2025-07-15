@@ -1,1 +1,7 @@
 # SISMID25
+
+Welcome to the course repository for SISMID: Statistics and Modeling with Novel Data Streams (2024), for the portion taught by Mauricio Santillana and Fred Lu.
+
+The syllabus can be found here.
+
+This repo will be updated each day of the course with the new coding exercise and solutions to the previous exercise.
