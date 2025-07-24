@@ -7,7 +7,7 @@ The syllabus can be found here.
 This repo will be updated each day of the course with the new coding exercise and solutions to the previous exercise.
 
 
-## Create conda enviroment to run the notebooks
+## Create conda enviroment to run Jupyter Notebooks
 Create enviroment
 ```bash
 conda create -n SISMID25 python=3.11 numpy pandas matplotlib scipy seaborn scikit-learn
