@@ -8,12 +8,20 @@ This repo will be updated each day of the course with the new coding exercise an
 
 
 ## Create conda enviroment to run the notebooks
+Create enviroment
 ```bash
 conda create -n SISMID25 python=3.11 numpy pandas matplotlib scipy seaborn scikit-learn
-
+```
+Activate enviroment
+```bash
 conda activate SISMID25
-
-conda install ipykernel  
-
+```
+Install IPython kernel
+```bash
+conda install ipykernel
+```
+Register the enviroment
+```bash
 python -m ipykernel install --user --name=SISMID25
 ```
+
