@@ -5,3 +5,14 @@ Welcome to the course repository for SISMID: Statistics and Modeling with Novel 
 The syllabus can be found here.
 
 This repo will be updated each day of the course with the new coding exercise and solutions to the previous exercise.
+
+
+## Create conda enviroment to run the notebooks
+''' bash
+conda create -n SISMID25 python=3.11 numpy pandas matplotlib scipy seaborn scikit-learn
+
+conda activate SISMID25
+
+conda install ipykernel  
+
+python -m ipykernel install --user --name=SISMID25     
