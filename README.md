@@ -2,7 +2,7 @@
 
 Welcome to the course repository for SISMID: Statistics and Modeling with Novel Data Streams (2025), for the portion taught by Mauricio Santillana and Raul Garrido.
 
-The syllabus can be found here.
+The syllabus can be found in the slack channel.
 
 This repo will be updated each day of the course with the new coding exercise and solutions to the previous exercise.
 
