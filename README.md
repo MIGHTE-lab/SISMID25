@@ -9,6 +9,7 @@ This repo will be updated each day of the course with the new coding exercise an
 Google Colab Solutions:
 - Exercise 1: [https://colab.research.google.com/drive/1B-b6TSQpudRfW1t4fHrs2-kUiIUZN2XI?usp=sharing](https://colab.research.google.com/drive/1B-b6TSQpudRfW1t4fHrs2-kUiIUZN2XI?usp=sharing)
 - Exercise 2: [https://colab.research.google.com/drive/1MlKlsiPUzIky8_OhfjCPbE8WQfukqNqW?authuser=1#scrollTo=6c5497ca](https://colab.research.google.com/drive/1A70gSBgAjJ0bke9e2TURmG8zxuEgHtI9?usp=sharing)
+- Exercise 3: https://colab.research.google.com/drive/1A70gSBgAjJ0bke9e2TURmG8zxuEgHtI9?usp=sharing 
 
 
 ## Create conda enviroment to run Jupyter Notebooks
